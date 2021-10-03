@@ -8,4 +8,4 @@ The "process_ETL" function runs through the data pipeline from extraction, trans
 ![movies_query](https://user-images.githubusercontent.com/87148177/135764802-712075c9-74b9-4cdf-ac0d-65f8588b0156.png)\
 After completing the ETL process, I had a database with two tables: one for movies and one for ratings. The movies table consists of 31 columns holding a range of information for 6052 different movies.\
 ![ratings_query](https://user-images.githubusercontent.com/87148177/135764830-91b72db8-d947-4a9e-877c-65b85460e446.png)\
-The ratings table consists of 5 different columns containing information on over 26 million individual user ratings.\
+The ratings table consists of 5 different columns containing information on over 26 million individual user ratings.
